@@ -8,6 +8,5 @@ public class Main {
 	          if (i * i == a)
 	              System.out.print(i);
           }
-
     }
 }
